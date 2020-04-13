@@ -4,9 +4,7 @@ Demo Link
 I completed the 3 main goals
 
   The java application is able to execute on docker
-  
   I can communicate from to GCP
-  
   I have Inverted Indexing running on the cluster
   
 
